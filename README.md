@@ -182,23 +182,7 @@ Worked as a Backend Developer contributing to a Real Estate Business Platform.
 | Smart India Hackathon   | National Level Participant               |
 | INVENTRA-2K25           | Organized 24-Hour National Hackathon     |
 
----
 
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge\&logo=amazonaws)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Courses-blue?style=for-the-badge)
-
----
 
 # Coding Profiles
 
