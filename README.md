@@ -249,7 +249,7 @@ name: Generate Snake
 uses: Platane/snk@master
 ```
 
-![Snake animation](https://raw.githubusercontent.com/Prajwal-chougala/Prajwal-chougala/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Prajwal-chougala/Prajwal-chougala/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
